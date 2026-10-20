@@ -1,0 +1,39 @@
+[
+  {
+    "name": "Project Alpha (Enterprise GenAI Migration)",
+    "deadline_weeks": 8,
+    "required_skills": {
+      "Machine Learning & AI": 6,
+      "Python / Backend": 8,
+      "Cloud Architecture (AWS/GCP)": 5
+    }
+  },
+  {
+    "name": "Project Titan (Core FinTech Overhaul)",
+    "deadline_weeks": 12,
+    "required_skills": {
+      "Cloud Architecture (AWS/GCP)": 7,
+      "DevOps & CI/CD": 6,
+      "Cybersecurity Compliance": 5,
+      "Python / Backend": 6
+    }
+  },
+  {
+    "name": "Project Velocity (Mobile & Web App V2)",
+    "deadline_weeks": 6,
+    "required_skills": {
+      "Frontend (React/TypeScript)": 8,
+      "Product Management": 3,
+      "Python / Backend": 5
+    }
+  },
+  {
+    "name": "Project Lighthouse (Data Lakehouse & BI)",
+    "deadline_weeks": 10,
+    "required_skills": {
+      "Data Engineering (SQL/Spark)": 8,
+      "Machine Learning & AI": 4,
+      "Cloud Architecture (AWS/GCP)": 5
+    }
+  }
+]

@@ -1,0 +1,564 @@
+[
+  {
+    "employee_id": "ENG-3001",
+    "department": "Product & Engineering",
+    "experience_years": 2,
+    "weekly_availability_hrs": 40,
+    "skills": {
+      "Python / Backend": 3,
+      "Frontend (React/TypeScript)": 2
+    }
+  },
+  {
+    "employee_id": "ENG-3002",
+    "department": "Product & Engineering",
+    "experience_years": 9,
+    "weekly_availability_hrs": 40,
+    "skills": {
+      "Cybersecurity Compliance": 1,
+      "Python / Backend": 3
+    }
+  },
+  {
+    "employee_id": "ENG-3003",
+    "department": "Product & Engineering",
+    "experience_years": 7,
+    "weekly_availability_hrs": 20,
+    "skills": {
+      "Agile Project Delivery": 4,
+      "Data Engineering (SQL/Spark)": 4
+    }
+  },
+  {
+    "employee_id": "ENG-3004",
+    "department": "Product & Engineering",
+    "experience_years": 2,
+    "weekly_availability_hrs": 30,
+    "skills": {
+      "Frontend (React/TypeScript)": 3,
+      "Python / Backend": 2,
+      "Cybersecurity Compliance": 5,
+      "Cloud Architecture (AWS/GCP)": 3,
+      "Data Engineering (SQL/Spark)": 2
+    }
+  },
+  {
+    "employee_id": "ENG-3005",
+    "department": "Product & Engineering",
+    "experience_years": 14,
+    "weekly_availability_hrs": 40,
+    "skills": {
+      "Frontend (React/TypeScript)": 3,
+      "Python / Backend": 5,
+      "DevOps & CI/CD": 3,
+      "Data Engineering (SQL/Spark)": 3
+    }
+  },
+  {
+    "employee_id": "ENG-3006",
+    "department": "Product & Engineering",
+    "experience_years": 2,
+    "weekly_availability_hrs": 30,
+    "skills": {
+      "Data Engineering (SQL/Spark)": 3,
+      "Cloud Architecture (AWS/GCP)": 3,
+      "Python / Backend": 2,
+      "DevOps & CI/CD": 3
+    }
+  },
+  {
+    "employee_id": "ENG-3007",
+    "department": "Product & Engineering",
+    "experience_years": 2,
+    "weekly_availability_hrs": 40,
+    "skills": {
+      "Product Management": 3,
+      "DevOps & CI/CD": 4,
+      "Cloud Architecture (AWS/GCP)": 4,
+      "Machine Learning & AI": 4
+    }
+  },
+  {
+    "employee_id": "ENG-3008",
+    "department": "Product & Engineering",
+    "experience_years": 12,
+    "weekly_availability_hrs": 40,
+    "skills": {
+      "Agile Project Delivery": 3,
+      "Data Engineering (SQL/Spark)": 3,
+      "Cloud Architecture (AWS/GCP)": 5
+    }
+  },
+  {
+    "employee_id": "ENG-3009",
+    "department": "Product & Engineering",
+    "experience_years": 2,
+    "weekly_availability_hrs": 20,
+    "skills": {
+      "DevOps & CI/CD": 4,
+      "Python / Backend": 4,
+      "Cloud Architecture (AWS/GCP)": 3
+    }
+  },
+  {
+    "employee_id": "ENG-3010",
+    "department": "Product & Engineering",
+    "experience_years": 5,
+    "weekly_availability_hrs": 40,
+    "skills": {
+      "Data Engineering (SQL/Spark)": 3,
+      "Product Management": 3,
+      "Agile Project Delivery": 3,
+      "DevOps & CI/CD": 3
+    }
+  },
+  {
+    "employee_id": "ENG-3011",
+    "department": "Product & Engineering",
+    "experience_years": 11,
+    "weekly_availability_hrs": 30,
+    "skills": {
+      "Cybersecurity Compliance": 3,
+      "DevOps & CI/CD": 4,
+      "Cloud Architecture (AWS/GCP)": 5,
+      "Agile Project Delivery": 2,
+      "Frontend (React/TypeScript)": 2
+    }
+  },
+  {
+    "employee_id": "ENG-3012",
+    "department": "Product & Engineering",
+    "experience_years": 5,
+    "weekly_availability_hrs": 40,
+    "skills": {
+      "Cybersecurity Compliance": 3,
+      "Agile Project Delivery": 3
+    }
+  },
+  {
+    "employee_id": "ENG-3013",
+    "department": "Product & Engineering",
+    "experience_years": 5,
+    "weekly_availability_hrs": 30,
+    "skills": {
+      "Cloud Architecture (AWS/GCP)": 4,
+      "Frontend (React/TypeScript)": 3
+    }
+  },
+  {
+    "employee_id": "ENG-3014",
+    "department": "Product & Engineering",
+    "experience_years": 3,
+    "weekly_availability_hrs": 40,
+    "skills": {
+      "Product Management": 5,
+      "Python / Backend": 3,
+      "DevOps & CI/CD": 3
+    }
+  },
+  {
+    "employee_id": "ENG-3015",
+    "department": "Product & Engineering",
+    "experience_years": 9,
+    "weekly_availability_hrs": 40,
+    "skills": {
+      "Frontend (React/TypeScript)": 2,
+      "Data Engineering (SQL/Spark)": 4
+    }
+  },
+  {
+    "employee_id": "ENG-3016",
+    "department": "Product & Engineering",
+    "experience_years": 15,
+    "weekly_availability_hrs": 30,
+    "skills": {
+      "DevOps & CI/CD": 1,
+      "Product Management": 5
+    }
+  },
+  {
+    "employee_id": "ENG-3017",
+    "department": "Product & Engineering",
+    "experience_years": 2,
+    "weekly_availability_hrs": 40,
+    "skills": {
+      "Python / Backend": 5,
+      "Data Engineering (SQL/Spark)": 2,
+      "Frontend (React/TypeScript)": 3
+    }
+  },
+  {
+    "employee_id": "ENG-3018",
+    "department": "Product & Engineering",
+    "experience_years": 4,
+    "weekly_availability_hrs": 40,
+    "skills": {
+      "Machine Learning & AI": 2,
+      "Product Management": 3,
+      "Frontend (React/TypeScript)": 4
+    }
+  },
+  {
+    "employee_id": "ENG-3019",
+    "department": "Product & Engineering",
+    "experience_years": 2,
+    "weekly_availability_hrs": 20,
+    "skills": {
+      "Frontend (React/TypeScript)": 4,
+      "Cybersecurity Compliance": 3,
+      "DevOps & CI/CD": 3
+    }
+  },
+  {
+    "employee_id": "ENG-3020",
+    "department": "Product & Engineering",
+    "experience_years": 2,
+    "weekly_availability_hrs": 40,
+    "skills": {
+      "Cloud Architecture (AWS/GCP)": 3,
+      "DevOps & CI/CD": 3,
+      "Python / Backend": 3
+    }
+  },
+  {
+    "employee_id": "ENG-3021",
+    "department": "Product & Engineering",
+    "experience_years": 2,
+    "weekly_availability_hrs": 40,
+    "skills": {
+      "Data Engineering (SQL/Spark)": 5,
+      "Cloud Architecture (AWS/GCP)": 5
+    }
+  },
+  {
+    "employee_id": "ENG-3022",
+    "department": "Product & Engineering",
+    "experience_years": 10,
+    "weekly_availability_hrs": 30,
+    "skills": {
+      "Frontend (React/TypeScript)": 3,
+      "Product Management": 4,
+      "Cloud Architecture (AWS/GCP)": 5
+    }
+  },
+  {
+    "employee_id": "ENG-3023",
+    "department": "Product & Engineering",
+    "experience_years": 7,
+    "weekly_availability_hrs": 30,
+    "skills": {
+      "Product Management": 2,
+      "Cybersecurity Compliance": 4,
+      "Cloud Architecture (AWS/GCP)": 3
+    }
+  },
+  {
+    "employee_id": "ENG-3024",
+    "department": "Product & Engineering",
+    "experience_years": 14,
+    "weekly_availability_hrs": 20,
+    "skills": {
+      "Cloud Architecture (AWS/GCP)": 3,
+      "Python / Backend": 3
+    }
+  },
+  {
+    "employee_id": "ENG-3025",
+    "department": "Product & Engineering",
+    "experience_years": 4,
+    "weekly_availability_hrs": 20,
+    "skills": {
+      "Data Engineering (SQL/Spark)": 3,
+      "Agile Project Delivery": 3,
+      "Frontend (React/TypeScript)": 3
+    }
+  },
+  {
+    "employee_id": "ENG-3026",
+    "department": "Product & Engineering",
+    "experience_years": 8,
+    "weekly_availability_hrs": 30,
+    "skills": {
+      "Agile Project Delivery": 4,
+      "Cloud Architecture (AWS/GCP)": 5,
+      "Python / Backend": 5,
+      "DevOps & CI/CD": 4,
+      "Frontend (React/TypeScript)": 2
+    }
+  },
+  {
+    "employee_id": "ENG-3027",
+    "department": "Product & Engineering",
+    "experience_years": 13,
+    "weekly_availability_hrs": 30,
+    "skills": {
+      "Cybersecurity Compliance": 3,
+      "Python / Backend": 5,
+      "Cloud Architecture (AWS/GCP)": 3
+    }
+  },
+  {
+    "employee_id": "ENG-3028",
+    "department": "Product & Engineering",
+    "experience_years": 12,
+    "weekly_availability_hrs": 30,
+    "skills": {
+      "Cybersecurity Compliance": 3,
+      "Product Management": 5,
+      "Cloud Architecture (AWS/GCP)": 3,
+      "Agile Project Delivery": 3
+    }
+  },
+  {
+    "employee_id": "ENG-3029",
+    "department": "Product & Engineering",
+    "experience_years": 3,
+    "weekly_availability_hrs": 20,
+    "skills": {
+      "Python / Backend": 3,
+      "Product Management": 5
+    }
+  },
+  {
+    "employee_id": "ENG-3030",
+    "department": "Product & Engineering",
+    "experience_years": 4,
+    "weekly_availability_hrs": 30,
+    "skills": {
+      "Machine Learning & AI": 3,
+      "Cloud Architecture (AWS/GCP)": 4
+    }
+  },
+  {
+    "employee_id": "ENG-3031",
+    "department": "Product & Engineering",
+    "experience_years": 10,
+    "weekly_availability_hrs": 40,
+    "skills": {
+      "Data Engineering (SQL/Spark)": 4,
+      "Python / Backend": 3
+    }
+  },
+  {
+    "employee_id": "ENG-3032",
+    "department": "Product & Engineering",
+    "experience_years": 8,
+    "weekly_availability_hrs": 30,
+    "skills": {
+      "Frontend (React/TypeScript)": 3,
+      "Data Engineering (SQL/Spark)": 3,
+      "DevOps & CI/CD": 2,
+      "Cybersecurity Compliance": 4
+    }
+  },
+  {
+    "employee_id": "ENG-3033",
+    "department": "Product & Engineering",
+    "experience_years": 2,
+    "weekly_availability_hrs": 20,
+    "skills": {
+      "Python / Backend": 4,
+      "Product Management": 3
+    }
+  },
+  {
+    "employee_id": "ENG-3034",
+    "department": "Product & Engineering",
+    "experience_years": 6,
+    "weekly_availability_hrs": 30,
+    "skills": {
+      "Agile Project Delivery": 5,
+      "Frontend (React/TypeScript)": 5,
+      "Cloud Architecture (AWS/GCP)": 5
+    }
+  },
+  {
+    "employee_id": "ENG-3035",
+    "department": "Product & Engineering",
+    "experience_years": 11,
+    "weekly_availability_hrs": 40,
+    "skills": {
+      "Product Management": 5,
+      "Frontend (React/TypeScript)": 4,
+      "Agile Project Delivery": 3
+    }
+  },
+  {
+    "employee_id": "ENG-3036",
+    "department": "Product & Engineering",
+    "experience_years": 4,
+    "weekly_availability_hrs": 40,
+    "skills": {
+      "Cloud Architecture (AWS/GCP)": 5,
+      "Machine Learning & AI": 4,
+      "Product Management": 2,
+      "Python / Backend": 3
+    }
+  },
+  {
+    "employee_id": "ENG-3037",
+    "department": "Product & Engineering",
+    "experience_years": 14,
+    "weekly_availability_hrs": 30,
+    "skills": {
+      "Data Engineering (SQL/Spark)": 3,
+      "Frontend (React/TypeScript)": 5,
+      "Product Management": 2,
+      "Agile Project Delivery": 4
+    }
+  },
+  {
+    "employee_id": "ENG-3038",
+    "department": "Product & Engineering",
+    "experience_years": 5,
+    "weekly_availability_hrs": 20,
+    "skills": {
+      "Python / Backend": 4,
+      "DevOps & CI/CD": 4
+    }
+  },
+  {
+    "employee_id": "ENG-3039",
+    "department": "Product & Engineering",
+    "experience_years": 10,
+    "weekly_availability_hrs": 40,
+    "skills": {
+      "Agile Project Delivery": 2,
+      "Cybersecurity Compliance": 5,
+      "Frontend (React/TypeScript)": 5,
+      "Python / Backend": 3,
+      "DevOps & CI/CD": 4
+    }
+  },
+  {
+    "employee_id": "ENG-3040",
+    "department": "Product & Engineering",
+    "experience_years": 14,
+    "weekly_availability_hrs": 20,
+    "skills": {
+      "Cybersecurity Compliance": 3,
+      "Machine Learning & AI": 5,
+      "Python / Backend": 4
+    }
+  },
+  {
+    "employee_id": "ENG-3041",
+    "department": "Product & Engineering",
+    "experience_years": 12,
+    "weekly_availability_hrs": 20,
+    "skills": {
+      "Data Engineering (SQL/Spark)": 3,
+      "Agile Project Delivery": 3,
+      "DevOps & CI/CD": 5,
+      "Python / Backend": 5
+    }
+  },
+  {
+    "employee_id": "ENG-3042",
+    "department": "Product & Engineering",
+    "experience_years": 15,
+    "weekly_availability_hrs": 30,
+    "skills": {
+      "Machine Learning & AI": 1,
+      "Agile Project Delivery": 4,
+      "Data Engineering (SQL/Spark)": 3
+    }
+  },
+  {
+    "employee_id": "ENG-3043",
+    "department": "Product & Engineering",
+    "experience_years": 8,
+    "weekly_availability_hrs": 20,
+    "skills": {
+      "Frontend (React/TypeScript)": 4,
+      "Machine Learning & AI": 3,
+      "Cybersecurity Compliance": 1
+    }
+  },
+  {
+    "employee_id": "ENG-3044",
+    "department": "Product & Engineering",
+    "experience_years": 11,
+    "weekly_availability_hrs": 20,
+    "skills": {
+      "Product Management": 4,
+      "DevOps & CI/CD": 5,
+      "Machine Learning & AI": 3
+    }
+  },
+  {
+    "employee_id": "ENG-3045",
+    "department": "Product & Engineering",
+    "experience_years": 1,
+    "weekly_availability_hrs": 20,
+    "skills": {
+      "DevOps & CI/CD": 3,
+      "Frontend (React/TypeScript)": 3,
+      "Cybersecurity Compliance": 4,
+      "Python / Backend": 4,
+      "Machine Learning & AI": 3
+    }
+  },
+  {
+    "employee_id": "ENG-3046",
+    "department": "Product & Engineering",
+    "experience_years": 9,
+    "weekly_availability_hrs": 20,
+    "skills": {
+      "Machine Learning & AI": 3,
+      "Frontend (React/TypeScript)": 3,
+      "Python / Backend": 4,
+      "Cybersecurity Compliance": 3
+    }
+  },
+  {
+    "employee_id": "ENG-3047",
+    "department": "Product & Engineering",
+    "experience_years": 11,
+    "weekly_availability_hrs": 20,
+    "skills": {
+      "Data Engineering (SQL/Spark)": 1,
+      "Frontend (React/TypeScript)": 5,
+      "Python / Backend": 3,
+      "DevOps & CI/CD": 4,
+      "Agile Project Delivery": 4
+    }
+  },
+  {
+    "employee_id": "ENG-3048",
+    "department": "Product & Engineering",
+    "experience_years": 9,
+    "weekly_availability_hrs": 30,
+    "skills": {
+      "Cybersecurity Compliance": 4,
+      "Cloud Architecture (AWS/GCP)": 4,
+      "DevOps & CI/CD": 2,
+      "Machine Learning & AI": 5
+    }
+  },
+  {
+    "employee_id": "ENG-3049",
+    "department": "Product & Engineering",
+    "experience_years": 10,
+    "weekly_availability_hrs": 40,
+    "skills": {
+      "DevOps & CI/CD": 2,
+      "Cybersecurity Compliance": 3,
+      "Agile Project Delivery": 5,
+      "Machine Learning & AI": 4,
+      "Frontend (React/TypeScript)": 5
+    }
+  },
+  {
+    "employee_id": "ENG-3050",
+    "department": "Product & Engineering",
+    "experience_years": 8,
+    "weekly_availability_hrs": 30,
+    "skills": {
+      "Cybersecurity Compliance": 3,
+      "Python / Backend": 4,
+      "Machine Learning & AI": 4,
+      "Agile Project Delivery": 3
+    }
+  }
+]
